@@ -1,6 +1,6 @@
 <script>
 	import { fade } from 'svelte/transition';
-	import HeroLightImg from '$lib/imgs/pexels.jpg';
+	import HeroLightImg from '$lib/imgs/image-ventureabroad.webp';
 </script>
 
 <div class="flex items-center justify-center gap-4 md:gap-8 mt-12">
